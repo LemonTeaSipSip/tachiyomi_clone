@@ -13,7 +13,6 @@ debugShowCheckedModeBanner: false,
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
       home: Homescreen(),
       // home: DetailScreen(
       //     mangaImg: 'https://avt.mkklcdnv6temp.com/38/b/30-1688529849.jpg',
